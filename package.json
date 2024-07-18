@@ -16,6 +16,6 @@
     "ldd": "^1.0.0",
     "nano": "^10.1.0",
     "package.json": "^2.0.1",
-    "puppeteer": "^19.2.2"
+    "puppeteer": "^22.13.1"
   }
 }
